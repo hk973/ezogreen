@@ -39,6 +39,8 @@ We welcome contributions from the community! Whether it's adding new features, f
 ![WhatsApp Image 2024-02-18 at 1 10 37 PM](https://github.com/hk973/ezogreen/assets/70455169/6111ed5f-f622-4215-9bb9-7073fb988845)
 ![WhatsApp Image 2024-02-18 at 1 10 38 PM](https://github.com/hk973/ezogreen/assets/70455169/27adb94b-2cda-433c-bb80-92cd64239327)
 
+## App Video :- https://youtu.be/2hjPqXPFA9A?si=dVPdu9WuhcljdSA1
+
 
 
 ## License
