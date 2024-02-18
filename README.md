@@ -34,6 +34,13 @@ Welcome to the ezogreen app repository! This mobile application is dedicated to 
 ## Contributing
 We welcome contributions from the community! Whether it's adding new features, fixing bugs, or improving the user experience, your contributions are valuable. Please follow the [contribution guidelines](CONTRIBUTING.md) when submitting pull requests.
 
+## Screenshots
+
+![WhatsApp Image 2024-02-18 at 1 10 37 PM](https://github.com/hk973/ezogreen/assets/70455169/6111ed5f-f622-4215-9bb9-7073fb988845)
+![WhatsApp Image 2024-02-18 at 1 10 38 PM](https://github.com/hk973/ezogreen/assets/70455169/27adb94b-2cda-433c-bb80-92cd64239327)
+
+
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
